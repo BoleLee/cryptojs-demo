@@ -1,5 +1,11 @@
 # cryptojs-demo
 
+## md5 puzzle
+
+When I compute md5 of the same image by different way, it get different result.
+
+[!md5 case snapshot](./readme-images/result.png)
+
 ## Project setup
 ```
 yarn install
